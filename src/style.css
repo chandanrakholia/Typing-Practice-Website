@@ -1,0 +1,68 @@
+input {
+  width: 50vh;
+  /* height: 100px; */
+  padding: 20px;
+  font-size: 20px;
+  box-sizing: border-box;
+  border: 2px solid burlywood;
+  text-align: center;
+}
+
+.simple-keyboard {
+  max-width: 850px;
+}
+
+.classHeader {
+  margin-top: 0;
+  /* background-color: royalblue; */
+  padding-left: 2.5%;
+  padding-top: 0.75%;
+  padding-bottom: 0.75%;
+}
+.classData {
+  font-size: larger;
+}
+.correct {
+  font-weight: bold;
+  color: green;
+  /* background-color: black; */
+}
+.incorrect {
+  font-weight: bold;
+  color: red;
+  /* background-color: black; */
+}
+.active {
+  font-weight: bold;
+}
+.input {
+  position: "relative";
+  height: 500;
+  text-align: "center";
+}
+.wordCloud {
+  font-size: xx-large;
+}
+.KeyboardNpm{
+}
+.center {
+  /* border: 5px solid; */
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.cloud{
+  margin: auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+.navbar{
+  margin-bottom: 5vh;
+  
+}
+.classTimer {
+  font-size: large;
+  /* background-color:skyblue; */
+  /* border: 5px solid gray; */
+  color:brown
+}
