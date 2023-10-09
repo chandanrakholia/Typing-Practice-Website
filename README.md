@@ -5,7 +5,7 @@ Welcome to the Typing Practice Website project! This is a simple web application
 
 ## Demo
 
-You can access a live demo of this project at [Demo Link](https://example.com).
+You can access a live demo of this project at [Demo Link](https://chandanrakholia.github.io/Typing-Practice-Website/).
 
 
 ## Getting Started
